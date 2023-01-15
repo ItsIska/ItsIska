@@ -39,6 +39,3 @@
 <div align="center">
   <img height="150" src="https://i.imgur.com/hQ58noO.png"  />
 </div>
-
-###
-Profile Readme Generator
